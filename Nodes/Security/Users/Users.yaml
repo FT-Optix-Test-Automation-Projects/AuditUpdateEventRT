@@ -1,0 +1,7 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: Guest
+  Id: g=ba939c6778e944d09fed83426817e116
+  Type: UserType

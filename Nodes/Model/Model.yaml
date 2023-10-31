@@ -1,0 +1,16 @@
+Name: Model
+Id: g=d215b759c3d6d45092df890c51cb6863
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=b25bbc7afd3c4f8bb163fe91e034b529
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Variable1Changed
+  Type: VariableChangedEventDispatcher
+  Children:
+  - Name: VariableNodePath
+    Type: BaseVariableType
+    DataType: NodePath
+    Value: "../Variable1"
